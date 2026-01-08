@@ -1,0 +1,1 @@
+{"accuracy":0.7648064667,"precision":0.7500924265,"recall":0.747875323,"f1":0.7486625579,"model":"jcblaise\/roberta-tagalog-base","total_training_time_sec":2665.1501755714,"avg_epoch_train_time_sec":44.9442384768,"avg_epoch_val_time_sec":8.3586923075,"final_inference_time_sec":8.3264286518}
